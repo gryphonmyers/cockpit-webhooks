@@ -1,0 +1,7 @@
+{
+    "name"       : "webhooks",
+    "version"    : "0.1.0",
+    "description": "Add-on providing HTTP callbacks on data write events.",
+    "homepage"   : "",
+    "license"    : "MIT"
+}
